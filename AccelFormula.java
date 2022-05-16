@@ -21,6 +21,6 @@ public class AccelFormula {
 		accel = (v1 - v0) / time;
 		
 		// Display average acceleration to the user
-		System.out.println("The average acceleration is " + accel "\n");
+		System.out.println("The average acceleration is " + accel +"\n");
 	}
 }
